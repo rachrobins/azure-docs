@@ -73,7 +73,7 @@ Composite(AA.AuN='mike smith')
 ```
 Composite(And(AA.AuN='mike smith',AA.AfN='harvard university'))
 ```
-<br>The Composite() function ties the two parts of the composite attribute together. This means that we only get papers where one of the authors is “Mike Smith” while he was at Harvard. 
+<br>The Composite() function ties the two parts of the composite attribute together. This means that we only get papers where one of the authors is “Mike Smith” while they were at Harvard. 
 
 To query for papers by a particular author in affiliations with (other) authors from a particular institution, use the following query:
 ```
